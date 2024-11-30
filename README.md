@@ -31,6 +31,8 @@ Softeer HSAT 정기 역량 진단 합격을 목표로 합니다.
 - 하루에 한 유형에 대한 개념 익히기
   
 - 유형에 따라 [문제집 링크](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook.md)의 `연습 + 기본 + 응용 문제` 풀이
+  
+- ✔ 표시되어 있는 문제 꼭 풀기!
 
 - 모임 시간에 선별 문제 풀이
   - 푼 사람 : 해결 방법 공유 
