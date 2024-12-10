@@ -40,7 +40,7 @@ class Main {
                 String str = st.nextToken();
 
                 if ("D".equals(str)) {
-                    int n =  Integer.parseInt(st.nextToken());
+                    int n = Integer.parseInt(st.nextToken());
 
                     if (map.isEmpty()) {
                         continue;
